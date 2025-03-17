@@ -1,0 +1,1 @@
+# Speech-Recognition-Vosk-OrangePi
